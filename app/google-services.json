@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "514615283299",
+    "firebase_url": "https://wtaassisment.firebaseio.com",
+    "project_id": "wtaassisment",
+    "storage_bucket": "wtaassisment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514615283299:android:c5a2bdb8e8d25caa",
+        "android_client_info": {
+          "package_name": "kathi.com.wtschat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514615283299-ll9459i0h6pb7i3lijdn09o2oqaeskef.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kathi.com.wtschat",
+            "certificate_hash": "77204bba0494b3dfbb3fd475c70990b4709a7ed5"
+          }
+        },
+        {
+          "client_id": "514615283299-fqj39lm41c8lf5a2hmdcou5f9qm8uo7e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPv73wamX4zWq9vovQi_6JBvBGDIxWPqQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514615283299-fqj39lm41c8lf5a2hmdcou5f9qm8uo7e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
